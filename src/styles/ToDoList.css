@@ -1,0 +1,146 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: "Roboto", sans-serif;
+}
+
+input {
+    border: 0;
+    outline: none;
+}
+
+.list {
+    width: 800px;
+    box-shadow: -10px 10px 20px 13px rgb(194, 191, 191);
+}
+
+.task {
+    color: grey;
+    font-size: 1.2rem;
+    background-color: whitesmoke;
+    height: 60px;
+    width: 710px;
+    display: flex;
+    align-items: center;
+    margin-left: 10px;
+    position: relative;
+}
+  
+.task::after {
+    content: "";
+    position: absolute;
+    top: 0;
+    left: -20px;
+    width: 750px; /* желаемая длина */
+    height: 1px; /* толщина рамки */
+    background-color: rgb(222, 219, 219);
+}
+
+.input_task {
+    color: grey;
+    font-size: 1.2rem;
+    background-color: whitesmoke;
+    height: 80px;
+    display: flex;
+    align-items: center;
+    padding-left: 30px;
+    position: relative;
+    width: 775px;
+    border-bottom: 1px solid rgb(174, 166, 166);
+}
+
+.task-cb {
+    margin-left: 30px;
+    margin-right: 30px;
+}
+
+.task_input {
+    font-style: italic;
+}
+
+.input {
+    position: relative;
+}
+
+.input_img {
+    position: absolute;
+    width: 30px;
+    height: 30px;
+    top: 30%;
+    right: 30px;
+}
+
+.list_input {
+    display: flex;
+}
+
+.list_input_button {
+    color: whitesmoke;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 32px;
+    width: 50px;
+    background-color: #148ce8;
+    border-left: 0 !important;
+    border-radius: 5px;
+    border: 2px solid rgb(122, 111, 111);
+}
+
+.task_delete {
+    /* border-bottom: 1px solid rgb(222, 219, 219) !important; */
+    background-color: whitesmoke !important;
+    border-radius: 0 !important;
+    color: rgba(255, 0, 0, 0.733);
+    width: 30px !important;
+    height: 60px !important;
+    padding-right: 7px;
+    display: block;
+}   
+
+.task_footer {
+    border-top: 1px solid rgb(174, 166, 166); 
+    background-color: rgba(245, 245, 245, 0.499);
+    height: 40px;
+    width: 800px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.task_footer_items {
+    margin-left: 40px;
+    color: grey;
+}
+
+.task_footer_buttons {
+    color: grey;
+    border: 0;
+    font-size: 16px;
+    padding: 5px;
+}
+
+input[type='radio'] {
+    margin-left: 20px;
+}
+
+.buttons {
+    margin-right: 40px;
+    display: flex;
+    gap: 15px;
+    color: grey;
+}
+
+input[type="checkbox"] {
+    visibility: hidden;
+    position: absolute;
+    left: -99999px;
+}
+
+.task_footer_clear {
+    margin-right: 40px;
+    color: grey;
+    margin-top: 13px;
+    border: 0;
+    font-size: 16px;
+}
