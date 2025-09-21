@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/todo_proj/static/css/main.edff634a.css",
+    "main.js": "/todo_proj/static/js/main.42dd5316.js",
+    "static/js/453.a5631817.chunk.js": "/todo_proj/static/js/453.a5631817.chunk.js",
+    "static/media/roboto-latin-400-normal.woff2": "/todo_proj/static/media/roboto-latin-400-normal.df1be0be92f6f19b8115.woff2",
+    "static/media/roboto-math-400-normal.woff2": "/todo_proj/static/media/roboto-math-400-normal.b60d9fba1e21da7497e6.woff2",
+    "static/media/roboto-latin-400-normal.woff": "/todo_proj/static/media/roboto-latin-400-normal.ea471dac4203763adb05.woff",
+    "static/media/roboto-math-400-normal.woff": "/todo_proj/static/media/roboto-math-400-normal.14e522c73b1cba795cb9.woff",
+    "static/media/roboto-cyrillic-ext-400-normal.woff2": "/todo_proj/static/media/roboto-cyrillic-ext-400-normal.31476620b88eec076438.woff2",
+    "static/media/roboto-cyrillic-ext-400-normal.woff": "/todo_proj/static/media/roboto-cyrillic-ext-400-normal.321b38d23bba744ca0fd.woff",
+    "static/media/roboto-latin-ext-400-normal.woff2": "/todo_proj/static/media/roboto-latin-ext-400-normal.0f86a30ca7e981fcfc99.woff2",
+    "static/media/roboto-latin-ext-400-normal.woff": "/todo_proj/static/media/roboto-latin-ext-400-normal.4f3ddb9e14638e56a2dd.woff",
+    "static/media/roboto-cyrillic-400-normal.woff2": "/todo_proj/static/media/roboto-cyrillic-400-normal.86d5c52f4588f9f221d7.woff2",
+    "static/media/roboto-symbols-400-normal.woff2": "/todo_proj/static/media/roboto-symbols-400-normal.bb5b5d1459beb07bd3d5.woff2",
+    "static/media/roboto-cyrillic-400-normal.woff": "/todo_proj/static/media/roboto-cyrillic-400-normal.04775d6b2de959deebb8.woff",
+    "static/media/roboto-greek-400-normal.woff2": "/todo_proj/static/media/roboto-greek-400-normal.98a717d5a38e77c0f657.woff2",
+    "static/media/roboto-symbols-400-normal.woff": "/todo_proj/static/media/roboto-symbols-400-normal.f8a68c83623eea3fc76a.woff",
+    "static/media/roboto-vietnamese-400-normal.woff2": "/todo_proj/static/media/roboto-vietnamese-400-normal.b1b8baa94fbcaa57d098.woff2",
+    "static/media/roboto-greek-400-normal.woff": "/todo_proj/static/media/roboto-greek-400-normal.2f08145252e27538e659.woff",
+    "static/media/roboto-vietnamese-400-normal.woff": "/todo_proj/static/media/roboto-vietnamese-400-normal.0bfe7bd2087f81ea5ed4.woff",
+    "static/media/roboto-greek-ext-400-normal.woff2": "/todo_proj/static/media/roboto-greek-ext-400-normal.2d5875b032a1cca91eb2.woff2",
+    "static/media/roboto-greek-ext-400-normal.woff": "/todo_proj/static/media/roboto-greek-ext-400-normal.85384e1ce5cc0ef0c609.woff",
+    "index.html": "/todo_proj/index.html",
+    "main.edff634a.css.map": "/todo_proj/static/css/main.edff634a.css.map",
+    "main.42dd5316.js.map": "/todo_proj/static/js/main.42dd5316.js.map",
+    "453.a5631817.chunk.js.map": "/todo_proj/static/js/453.a5631817.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.edff634a.css",
+    "static/js/main.42dd5316.js"
+  ]
+}
